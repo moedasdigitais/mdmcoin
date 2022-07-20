@@ -27,7 +27,7 @@
   </a>
 </p>
 
-> Waves is an open source [blockchain protocol](https://waves.tech/waves-protocol). <br/> 
+> MDMCOIN is Based on WAVES an open source [blockchain protocol](https://waves.tech/waves-protocol). <br/> 
 You can use it to build your own decentralized applications. Waves provides full blockchain ecosystem including smart contracts language called RIDE.
 
 
