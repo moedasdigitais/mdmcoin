@@ -1,4 +1,4 @@
-<h1 align="center">🔷 Waves Node</h1>
+<h1 align="center">🔷 MDMCOIN Blockchain Node</h1>
 
 <p align="center">
   <a href="https://github.com/wavesplatform/Waves/actions" target="_blank">
