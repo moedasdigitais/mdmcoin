@@ -31,9 +31,10 @@
 You can use it to build your own decentralized applications. Waves provides full blockchain ecosystem including smart contracts language called RIDE.
 
 
-## ✨ Demo
 
-<p align="center">
+
+<p align="center" style="display: none;">
+## ✨ Demo
     <img src="https://user-images.githubusercontent.com/1945126/78667964-88209480-78e2-11ea-9304-72178a6a5974.gif" alt="Waves Node Run Demo">
 </p>
 
