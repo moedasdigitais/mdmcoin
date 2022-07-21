@@ -1,14 +1,11 @@
 <h1 align="center">🔷 MDMCOIN Blockchain Node</h1>
 
 <p align="center">
-  <a href="https://github.com/wavesplatform/Waves/actions" target="_blank">
-    <img alt="Checks status" src="https://badgen.net/github/checks/wavesplatform/waves?cache=600"  />
+  <a href="https://github.com/moedasdigitais/mdmcoin/actions" target="_blank">
+    <img alt="Checks status" src="https://badgen.net/github/checks/moedasdigitais/mdmcoin?cache=600"  />
   </a>
   <a href="https://github.com/wavesplatform/Waves/releases" target="_blank">
-    <img alt="Downloads" src="https://badgen.net/github/assets-dl/wavesplatform/waves?color=blue" />
-  </a>
-  <a href="https://hub.docker.com/r/wavesplatform/wavesnode" target="_blank">
-    <img alt="Docker pulls" src="https://badgen.net/docker/pulls/wavesplatform/wavesnode?icon=docker" />
+    <img alt="Downloads" src="https://badgen.net/github/assets-dl/moedasdigitais/mdmcoin?color=blue" />
   </a>
 
   <br/>
@@ -19,12 +16,10 @@
   <a href="https://medium.com/wavesprotocol" target="_blank">
     <img alt="Medium: Waves Tech" src="https://badgen.net/runkit/msmolyakov/get-medium-followers?icon=medium&cache=86400" />
   </a>
-  <a href="https://t.me/waves_ride_dapps_dev" target="_blank">
-    <img alt="Telegram" src="https://badgen.net/badge/icon/Waves%20Dev%20Jedi?icon=telegram&label=Telegram"/>
+  <a href="https://t.me/mdmcoin" target="_blank">
+    <img alt="Telegram" src="https://badgen.net/badge/icon/mdmcoin?icon=telegram&label=Telegram"/>
   </a>
-  <a href="https://github.com/msmolyakov/awesome-waves" target="_blank">
-    <img alt="Awesome Waves" src="https://badgen.net/badge/icon/Awesome%20Waves?icon=awesome&label&color=pink" />
-  </a>
+
 </p>
 
 > MDMCOIN is Based on WAVES an open source [blockchain protocol](https://waves.tech/waves-protocol). <br/> 
