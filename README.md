@@ -13,8 +13,8 @@
 
   <br/>
 
-  <a href="https://twitter.com/wavesprotocol" target="_blank">
-    <img alt="Twitter: Waves Tech" src="https://badgen.net/twitter/follow/wavesprotocol?icon=twitter&label=follow%20on%20Twitter" />
+  <a href="https://twitter.com/mdinvestnl" target="_blank">
+    <img alt="Twitter: Waves Tech" src="https://badgen.net/twitter/follow/mdinvestnl?icon=twitter&label=follow%20on%20Twitter" />
   </a>
   <a href="https://medium.com/wavesprotocol" target="_blank">
     <img alt="Medium: Waves Tech" src="https://badgen.net/runkit/msmolyakov/get-medium-followers?icon=medium&cache=86400" />
