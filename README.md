@@ -33,12 +33,7 @@ You can use it to build your own decentralized applications. Waves provides full
 
 
 
-<p align="center" style="display: none;">
-## ✨ Demo
-    <img src="https://user-images.githubusercontent.com/1945126/78667964-88209480-78e2-11ea-9304-72178a6a5974.gif" alt="Waves Node Run Demo">
-</p>
-
-Waves node is a host connected to the blockchain network with the following functions:
+MDMCoin node is a host connected to the blockchain network with the following functions:
 
 - Processing and validation of [transactions](https://docs.waves.tech/en/blockchain/transaction/transaction-validation)
 - Generation and storage of [blocks](https://docs.waves.tech/en/blockchain/block/)
